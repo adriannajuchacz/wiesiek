@@ -1,6 +1,7 @@
 body{
     background: url("razem.JPG");
     background-size: cover;
+    background-attachment: fixed;
 }
 p{
     color: white;
