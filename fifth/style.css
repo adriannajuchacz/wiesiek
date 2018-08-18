@@ -1,0 +1,9 @@
+body{
+    background: url("razem.JPG");
+    background-size: cover;
+}
+p{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+}

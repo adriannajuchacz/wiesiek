@@ -1,0 +1,35 @@
+body{
+    background: url("berghain.jpg")
+}
+.evan{
+    height: 900px;
+    width: 100%;
+    background: url("evan.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    position: absolute;
+}
+h1{
+    position: absolute;
+    color: white;
+}
+#f1{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+#f2{
+    margin-left:500px;
+    margin-top: 200px;
+}
+#f3{
+    margin-left: -100px;
+    margin-top: 400px;
+}
+#f4{
+    margin-left: ;
+    margin-top: 600px;
+}
+button{
+    position: absolute;
+}
